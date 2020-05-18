@@ -1,0 +1,54 @@
+#body{
+	background-color: #e3f2fd;
+	background-image: url("pictures/background.png");
+	height: 500px; 
+	background-position:right;
+	background-repeat:no-repeat;
+    background-attachment: fixed;
+}
+#mytext{
+    margin-left:50px;
+	text-align: left;
+	display:flex;    
+    align-items:stretch;
+	
+}
+#presentacion{
+    margin-left:50px;
+}
+#descripcion{
+    margin-left:50px;
+    width: 800px;
+}
+hr{
+	align-content: center;
+	width: 50%;
+}
+.navbar{
+	background-color: #2ab5e3;
+	position: relative;
+	display: block;
+}
+.img-navbar{
+	width: 110px;
+	height: 110px;
+	border-radius: 50%;
+	display: block;
+	margin-left: 46%;
+	position: absolute;
+}
+.nav-item a{
+	position: relative;
+	border-top: 100px;
+}
+.nav-izq{
+	margin-right: 60px;
+}
+.nav-der{
+	margin-left: 60px;
+}
+.icons{
+	text-align: right;
+	display: inline-block;
+}
+
